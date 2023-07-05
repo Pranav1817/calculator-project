@@ -1,0 +1,48 @@
+body {
+  font-family: sans-serif;
+}
+
+#table {
+  border: 8px solid rgb(167, 158, 158);
+
+  height: 25rem;
+  width: 29rem;
+  margin: auto;
+  margin-top: 10rem;
+}
+
+#table tr td {
+  border: 6px solid rgb(167, 158, 158);
+  text-align: center;
+}
+
+button {
+  background-color: white;
+}
+
+.operator {
+  width: 6rem;
+}
+
+.operator button {
+  background-color: rgb(248 68 43);
+}
+
+#table tr td button {
+  border: none;
+}
+
+#display {
+  height: 3rem;
+}
+
+#caption {
+  color: white;
+  background-color: black;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.operator {
+  background-color: rgb(248 68 43);
+}
